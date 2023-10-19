@@ -24,3 +24,18 @@ body{
     border: 1px solid black;
 }
 
+.paragrafo{
+    width: 600px;
+    margin: 20px;
+    color: rgb(7, 7, 51);
+    font-family: 'Amita', serif;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 100;
+    text-transform: none;
+    text-decoration: none;
+    box-shadow: 8px 2px 2px rgb(209, 164, 164);
+    text-shadow: 2px 5px 1px rgb(191, 192, 192), 1px 2px 1px;
+    text-align: justify;
+    background-color:  rgb(255, 198, 238);
+}
